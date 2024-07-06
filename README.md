@@ -6,7 +6,7 @@ Aspiring Full Stack Developer
 
 17\. College Student
 
-* 🌍  I'm based in Jaipur, IN
+* 🌍  I'm from Jaipur, IN
 * 🚀  I'm currently working on [learning and improving my tech stack](http://x.com/ignvaibhav812)
 * 🧠  Currently learning Full Stack
 * ⚡  I'm a Video Editor too... keep it secret okay :)
