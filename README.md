@@ -4,9 +4,9 @@ Vaibhav Gupta👋
 Aspiring Full Stack Developer
 -----------------------------
 
-17\. College Student
+18\. College Student
 
-* 🌍  I'm from Jaipur, IN
+* 🌍  I'm from INDIA
 * 🚀  I'm currently working on [learning and improving my tech stack](http://x.com/ignvaibhav812)
 * 🧠  Currently learning Full Stack
 * ⚡  I'm a Video Editor too... keep it secret okay :)
